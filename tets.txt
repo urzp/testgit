@@ -1,1 +1,1 @@
-ne string
+ne str
